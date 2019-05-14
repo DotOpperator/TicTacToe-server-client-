@@ -1,5 +1,6 @@
-package tictactoeserver;
-
+/********************************************************
+Author: Suraj Upadhyay & Manohar Chitoda
+//*******************************************************/
 import java.io.*;
 import java.net.*;
 import java.util.LinkedList;
