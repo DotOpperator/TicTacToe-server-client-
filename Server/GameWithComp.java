@@ -1,5 +1,6 @@
-package tictactoeserver;
-
+/********************************************************
+Author: Manohar Chitoda & Suraj Upadhyay
+//*******************************************************/
 import java.util.*;
 
 public class GameWithComp 
