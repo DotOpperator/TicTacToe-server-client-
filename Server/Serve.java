@@ -1,5 +1,6 @@
-package tictactoeserver;
-
+/********************************************************
+Author: Suraj Upadhyay & Manohar Chitoda
+//*******************************************************/
 import java.util.concurrent.Semaphore;
 
 public class Serve extends Thread
