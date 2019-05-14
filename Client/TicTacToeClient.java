@@ -1,5 +1,6 @@
-package tictactoeclient;
-
+/********************************************************
+Author: Suraj Upadhyay & Manohar Chitoda
+//*******************************************************/
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.Font;
