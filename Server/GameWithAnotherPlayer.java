@@ -1,5 +1,6 @@
-package tictactoeserver;
-
+/********************************************************
+Author: Suraj Upadhyay & Manohar Chitoda
+//*******************************************************/
 import java.io.IOException;
 
 public class GameWithAnotherPlayer 
